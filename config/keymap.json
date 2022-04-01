@@ -5,7 +5,8 @@
   "layer_names": [
     "base",
     "raise",
-    "lower"
+    "lower",
+    "adjust"
   ],
   "layers": [
     [
@@ -18,6 +19,11 @@
        "&bt BT_CLR", "&bt BT_SEL 0", "&bt BT_SEL 1",    "&bt BT_SEL 2",    "&bt BT_SEL 3",    "&bt BT_SEL 4",             "&kp LEFT",         "&kp DOWN",       "&kp UP",  "&kp RIGHT", "&trans", "&ext_power EP_OFF",
            "&reset",  "&bootloader",       "&trans",          "&trans",          "&trans",          "&trans",           "&kp C_PREV",     "&kp C_VOL_DN", "&kp C_VOL_UP", "&kp C_NEXT", "&trans", "&ext_power EP_TOG",
                                                               "&trans",          "&trans",          "&trans",               "&trans", "&kp C_PLAY_PAUSE",       "&trans"
+    ], [
+       "&kp GRAVE",  "&kp EXCL",   "&kp AT",        "&kp HASH",  "&kp DLLR", "&kp PRCNT",           "&kp LPAR", "&kp RPAR", "&kp KP_MULTIPLY", "&kp LPAR", "&kp RPAR", "&trans",
+       "&kp TILDE", "&kp CARET", "&kp AMPS", "&kp KP_MULTIPLY", "&kp MINUS", "&kp EQUAL",           "&kp LBKT", "&kp RBKT",          "&trans",   "&trans", "&kp BSLH", "&trans",
+          "&trans",    "&trans",   "&trans",          "&trans", "&kp UNDER",  "&kp PLUS",           "&kp LBRC", "&kp RBRC",          "&trans",   "&trans", "&kp PIPE", "&trans",
+                                                      "&trans",    "&trans",    "&trans",                "&rgb_ug RGB_EFR", "&rgb_ug RGB_TOG", "&rgb_ug RGB_EFF"
     ], [
        "&kp GRAVE",  "&kp EXCL",   "&kp AT",        "&kp HASH",  "&kp DLLR", "&kp PRCNT",           "&kp LPAR", "&kp RPAR", "&kp KP_MULTIPLY", "&kp LPAR", "&kp RPAR", "&trans",
        "&kp TILDE", "&kp CARET", "&kp AMPS", "&kp KP_MULTIPLY", "&kp MINUS", "&kp EQUAL",           "&kp LBKT", "&kp RBKT",          "&trans",   "&trans", "&kp BSLH", "&trans",
