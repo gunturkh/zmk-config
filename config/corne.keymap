@@ -68,7 +68,7 @@
 
         layer_adjust {
             bindings = <
-     &trans        &trans        &trans           &trans           &trans           &trans              &trans           &trans            &tran    &trans    &trans  &trans
+     &trans        &trans        &trans           &trans           &trans           &trans              &trans           &trans           &trans    &trans    &trans  &trans
  &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1     &bt BT_SEL 2     &bt BT_SEL 3     &bt BT_SEL 4            &kp LBKT         &kp RBKT           &trans    &trans  &kp BSLH  &trans
      &reset   &bootloader        &trans           &trans           &trans           &trans             &kp LBRC         &kp RBRC           &trans    &trans  &kp PIPE  &trans
                                                   &trans           &trans           &trans     &rgb_ug RGB_EFR  &rgb_ug RGB_TOG  &rgb_ug RGB_EFF              
